@@ -69,7 +69,7 @@ To run this project on your local machine, follow the steps below:
 4. Start the development server:
 
    ```bash
-   npm start
+   npm run dev
    ```
 
 The application should now be running locally.
